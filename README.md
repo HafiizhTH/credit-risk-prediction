@@ -116,6 +116,11 @@ The following are the results of the model comparison I used:
 
 Based on the prediction model, it can be concluded that the most suitable algorithm is **Random Forest**. This algorithm produces a high ROC_AUC value (1.00), compared to other algorithms that have relatively low values. The selection of the ROC_AUC metric is based on the focus on evaluating how well the model distinguishes between True Positive Rate and minimizes False Negative, especially since class imbalance is handled beforehand, so an appropriate metric is needed for the model to perform well.
 
+From the model results, the best feature importance is as follows: 
+
+![Picture1](https://github.com/HafiizhTH/credit-risk-prediction/assets/96015981/707fc810-4182-4e91-8ca8-4334beaa3f59)
+
+
 ## Business Recommendations
 1. Implement a more accurate credit scoring system
 > Use statistical models to assess a borrower's credit risk and determine the appropriate interest rate. Then conduct monitoring to understand how well the borrower is meeting his or her repayment obligations.

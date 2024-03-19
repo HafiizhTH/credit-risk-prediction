@@ -1,11 +1,11 @@
 # credit-risk-prediction
 This repository contains a project from the Program Based Internship Data Scientist from the ID/X Partner company in collaboration with Rakamin Academy.
 
-## Latar Belakang
+## Background
 **Business Understanding:**  
 ID/X Partners (PT IDX Consulting) was established in 2002 and has served companies throughout Asia and Australia and across a wide range of industries, particularly financial services, telecommunications, manufacturing and retail. ID/X Partners provides consulting services specializing in leveraging data analytics and decisioning (DAD) solutions combined with risk management and integrated marketing disciplines to help clients optimize portfolio profitability and business processes. The comprehensive consulting services and technology solutions offered by id/x partners make it a one-stop service provider.
 
-**Tujuan:** <br>
+**Goals:**  
 The goal I want to achieve is to build a prediction model to be able to reduce the risk of defaulting on credit loans that can harm the Company.
  
 ## Data Dictionary
